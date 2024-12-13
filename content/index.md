@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Ritaban's Notes
 ---
 
 This is a blank Quartz installation. Hi I'm Ritaban.
